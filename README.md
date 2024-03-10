@@ -1,2 +1,2 @@
 # validation-key.txt
-https://levolay.app.com/validation-key.txt  745ec26a240175c965aec3526599b9fca28d801f7984290ec44f3c426e88e528a8f562341597a604b4981dcba96910271b1290f1e2ac3d5701a045d1144eaa64
+https://levolay.app.com/validation-key.txt
